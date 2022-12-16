@@ -15,5 +15,7 @@ public class ForLoopTurnary {
 
         System.out.println(str.substring(8,8));  // Çıktıda hiçbir şey vermez.
 
+
+
     }
 }
