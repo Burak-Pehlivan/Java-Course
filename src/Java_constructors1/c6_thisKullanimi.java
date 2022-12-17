@@ -6,12 +6,14 @@ public class c6_thisKullanimi {
     String isim;
     String soyisim;
     String brans;
-    public c6_thisKullanimi(String ism, String soyism, String brns){
+    public c6_thisKullanimi(String isim, String soyisim, String brans){
 
-        isim = ism;
-        soyisim = soyism;
-        brans = brns;
+        this.isim = isim;
+        this.soyisim = soyisim;
+        this.brans = brans;
 
+        //eger this kullanilmasaydi constructorin parametre icindeki isim'i algilayacakti.
+        // this kullanarak instance variable'lar oldugunu belirterek constructor'in sorunsuz calismasini saglar.
     }
 
 }
