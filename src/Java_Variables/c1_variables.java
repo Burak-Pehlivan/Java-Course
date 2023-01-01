@@ -9,7 +9,7 @@ public class c1_variables {
     public static void main(String args[]) {
         int iAmLocalVariable = 3;
         System.out.println("class variable: " + iAmClassVariable);
-        System.out.println("instance variable: " + iAmInstanceVariable);   // static olmadigi icin kirmizi cizdi.
+       // System.out.println("instance variable: " + iAmInstanceVariable);   // static olmadigi icin kirmizi cizdi.
         System.out.println("local variable: " + iAmLocalVariable);
 
     }

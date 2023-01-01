@@ -63,8 +63,13 @@ public class c1_hastane {
 
     }
 
-
-
-
+    public static void method1(){
+        System.out.println(hastaneAdres);
     }
+
+    public static void method2(){
+        System.out.println(hastaneismi);
+    }
+
+ }
 
