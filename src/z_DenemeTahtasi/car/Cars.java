@@ -23,7 +23,7 @@ public class Cars {
     }
 
     public String getInfo(){
-        String info = "Car Info: " + year + " " + make + " " + ". Distance: " + distance);
+        String info = "Car Info: " + year + " " + make + " " + ". Distance: " + distance;
         return info;
     }
 }
